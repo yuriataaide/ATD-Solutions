@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback } from "react"
 import { Star, Quote, Send, Loader2, CheckCircle } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
+import { Timestamp } from "next/dist/server/lib/cache-handlers/types"
 
 interface Testimonial {
   id: number
@@ -11,7 +12,7 @@ interface Testimonial {
   role: string | null
   message: string
   rating: number
-  created_at: string
+  created_at: Timestamp
 }
 
 export function Testimonials() {
