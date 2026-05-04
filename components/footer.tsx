@@ -133,7 +133,7 @@ export function Footer() {
                   className="flex items-center gap-3 text-sm text-muted-foreground hover:text-primary transition-colors"
                 >
                   <Mail className="w-5 h-5 text-primary flex-shrink-0" />
-                  atdsolutions@gmail.com
+                  atdsolutions0@gmail.com
                 </Link>
               </li>
               <li className="flex items-start gap-3">
