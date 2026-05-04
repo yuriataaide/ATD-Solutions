@@ -31,7 +31,7 @@ const navigation = {
     { icon: X, href: "https://x.com/atdsolutions", label: "Twitter" },
     { icon: Instagram, href: "https://instagram.com/atdsolutions", label: "Instagram" },
     { icon: Linkedin, href: "https://linkedin.com/atdsolutions", label: "LinkedIn" },
-    { icon: Youtube, href: "https://youtube.com/atdsolutions0", label: "YouTube" },
+    { icon: Youtube, href: "https://youtube.com/@atdsolutions0", label: "YouTube" },
   ],
 }
 
