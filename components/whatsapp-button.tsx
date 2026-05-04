@@ -6,7 +6,7 @@ import Link from "next/link"
 export function WhatsAppButton() {
   return (
     <Link
-      href="https://wa.me/5511999999999?text=Olá! Gostaria de solicitar um orçamento."
+      href="https://wa.me/48998529910?text=Olá! Gostaria de solicitar um orçamento."
       target="_blank"
       className="fixed bottom-6 right-6 z-50 group"
       aria-label="Contato via WhatsApp"
