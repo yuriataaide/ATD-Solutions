@@ -62,7 +62,7 @@ export function CTA() {
               size="lg"
               className="bg-primary hover:bg-primary/90 text-primary-foreground glow transition-all duration-300 hover:scale-105 px-10 py-6 text-lg group"
             >
-              <Link href="https://wa.me/5511999999999" target="_blank">
+              <Link href="https://wa.me/48998529910" target="_blank">
                 Solicitar Orçamento Grátis
                 <ArrowRight className="ml-2 w-5 h-5 transition-transform group-hover:translate-x-1" />
               </Link>
