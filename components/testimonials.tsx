@@ -46,7 +46,7 @@ export function Testimonials() {
     fetchTestimonials()
     
     // Polling para atualização em tempo real (a cada 10 segundos)
-    const interval = setInterval(fetchTestimonials, 60000)
+    const interval = setInterval(fetchTestimonials, 6000000)
     return () => clearInterval(interval)
   }, [fetchTestimonials])
 
