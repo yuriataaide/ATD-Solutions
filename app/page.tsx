@@ -6,6 +6,7 @@ import { Testimonials } from "@/components/testimonials"
 import { CTA } from "@/components/cta"
 import { Footer } from "@/components/footer"
 import { WhatsAppButton } from "@/components/whatsapp-button"
+import { Portfolio } from "@/components/portfolio"
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Hero />
       <Services />
       <About />
+      <Portfolio/>
       <Testimonials />
       <CTA />
       <Footer />
