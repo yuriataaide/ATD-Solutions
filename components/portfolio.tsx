@@ -12,7 +12,7 @@ const projects = [
     title: "Ferpa Chopp",
     category: "E-commerce",
     description: "Site virtual completa com integração de pagamentos e gestão de estoque.",
-    tech: ["Next.js", "Stripe", "PostgreSQL", "Mercado Pago", "React",],
+    tech: ["Next.js", "Stripe", "PostgreSQL", "Mercado Pago", "React", "TypeScript"],
     color: "from-blue-500 to-cyan-500",
     image: "/ferpachopp-site.png",
     link: "https://ferpa-chopp.vercel.app/"
@@ -21,7 +21,7 @@ const projects = [
     title: "Ferpa Auto Elétrica",
     category: "Sites",
     description: "Site informativo para a Ferpa Auto Elétrica.",
-    tech: ["React", "Next.js", "PostgresSQL"],
+    tech: ["Next.js", "React", "TypeScript"],
     color: "from-primary to-accent",
     image: "/autoeletrica-site.png",
     link: "https://ferpaautoeletrica.vercel.app/"
@@ -30,7 +30,7 @@ const projects = [
     title: "ATD Solutions",
     category: "Sites",
     description: "Site informativo para a ATD Solutions.",
-    tech: ["Next.js", "PostgreSQL", "React"],
+    tech: ["Next.js", "React", "TypeScript"],
     color: "from-cyan-500 to-blue-600",
     image: "/atd-site.png",
     link: "https://atdsolutions.vercel.app/"
@@ -39,7 +39,7 @@ const projects = [
     title: "Ridere Odontologia",
     category: "Sites",
     description: "Site informativo para a Ridere Odontologia.",
-    tech: ["Next.js", "PostgreSQL", "React"],
+    tech: ["Next.js", "React", "TypeScript"],
     color: "from-cyan-500 to-blue-600",
     image: "/ridere-site.png",
     link: "https://ridereodontologia.vercel.app/"
