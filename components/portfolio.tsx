@@ -35,6 +35,15 @@ const projects = [
     image: "/atd-site.png",
     link: "https://atdsolutions.vercel.app/"
   },
+  { 
+    title: "Ridere Odontologia",
+    category: "Sites",
+    description: "Site informativo para a Ridere Odontologia.",
+    tech: ["Next.js", "PostgreSQL", "React"],
+    color: "from-cyan-500 to-blue-600",
+    image: "/ridere-site.png",
+    link: "https://ridereodontologia.vercel.app/"
+  }
 ]
 
 export function Portfolio() {
