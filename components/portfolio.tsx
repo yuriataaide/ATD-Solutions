@@ -42,7 +42,7 @@ const projects = [
     tech: ["Next.js", "React", "TypeScript"],
     color: "from-cyan-500 to-blue-600",
     image: "/ridere-site.png",
-    link: "https://ridereodontologia.vercel.app/"
+    link: "https://ridere-odontologia.vercel.app/"
   }
 ]
 
