@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: "Ferpa Auto Elétrica",
-    category: "Sites",
+    category: "Landing Pages",
     description: "Site informativo para a Ferpa Auto Elétrica.",
     tech: ["Next.js", "React", "TypeScript"],
     color: "from-primary to-accent",
@@ -28,7 +28,7 @@ const projects = [
   },
   {
     title: "ATD Solutions",
-    category: "Sites",
+    category: "Landing Pages",
     description: "Site informativo para a ATD Solutions.",
     tech: ["Next.js", "React", "TypeScript"],
     color: "from-cyan-500 to-blue-600",
@@ -37,7 +37,7 @@ const projects = [
   },
   { 
     title: "Ridere Odontologia",
-    category: "Sites",
+    category: "Landing Pages",
     description: "Site informativo para a Ridere Odontologia.",
     tech: ["Next.js", "React", "TypeScript"],
     color: "from-cyan-500 to-blue-600",
