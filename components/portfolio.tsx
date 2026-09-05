@@ -55,7 +55,7 @@ const projects = [
   },
   {
     title: "Grupo E-Watts",
-    category: "Sites/Aplicativo Web",
+    category: "Sistemas Web",
     description: "Site informativo e administrativo para o Grupo E-Watts.",
     tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Prisma", "PostgreSQL"],
     color: "from-cyan-500 to-blue-600",
