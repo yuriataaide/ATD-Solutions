@@ -42,7 +42,34 @@ const projects = [
     tech: ["Next.js", "React", "TypeScript"],
     color: "from-cyan-500 to-blue-600",
     image: "/ridere-site.png",
-    link: "https://ridere-odontologia.vercel.app/"
+    link: "https://ridereodontologia.vercel.app/"
+  },
+  {
+    title: "Dream Team Wiki",
+    category: "Sites",
+    description: "Wiki para guias e comando do Bot Dream Team.",
+    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Docker", "Prisma", "PostgreSQL"],
+    color: "from-cyan-500 to-blue-600",
+    image: "/dreamteamwiki.png",
+    link: "https://dreamteam.wiki/"
+  },
+  {
+    title: "Grupo E-Watts",
+    category: "Sites/Aplicativo Web",
+    description: "Site informativo e administrativo para o Grupo E-Watts.",
+    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Prisma", "PostgreSQL"],
+    color: "from-cyan-500 to-blue-600",
+    image: "/grupoewatts.png",
+    link: "https://grupoewatts.com.br"
+  },
+  {
+    title: "Pratto",
+    category: "Sistemas Web",
+    description: "Sistema de gestão de dietas para pacientes e nutricionistas para a Pratto.",
+    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Prisma", "PostgreSQL"],
+    color: "from-cyan-500 to-blue-600",
+    image: "/pratto.png",
+    link: "https://pratto.squareweb.app/"
   }
 ]
 
